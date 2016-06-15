@@ -1,0 +1,25 @@
+{
+    "name": "vendor/bowling-game",
+    "description": "Description of project BowlingGame.",
+    "authors": [
+        {
+            "name": "scs",
+            "email": "scisly87@gmail.com"
+        }
+    ],
+ 
+        
+
+
+"require-dev": {
+
+
+
+"phpunit/phpunit": "4.8.*"
+
+
+}
+}
+
+
+
